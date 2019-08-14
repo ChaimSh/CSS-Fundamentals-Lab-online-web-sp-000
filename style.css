@@ -32,7 +32,7 @@ figcaption {
   /*word-wrap: break-word;*/
   width: 800px;
 }
-#details {
+#details div{
   color: red;
   float: left;
   display: block
